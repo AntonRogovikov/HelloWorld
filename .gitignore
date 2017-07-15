@@ -1,3 +1,4 @@
+# compiles files
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -10,5 +11,7 @@
 
 # virtual machine crash logs
 hs_err_pld*
+
+# other files
 *.iml
 .idea/*
